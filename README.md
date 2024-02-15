@@ -1,7 +1,7 @@
 # To running this project
 ```
-    npm i
-    npm run dev
+npm i
+npm run dev
 ```
 
 # React + TypeScript + Vite
