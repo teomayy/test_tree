@@ -1,0 +1,13 @@
+body {
+	background-color: #1f2544;
+}
+ul {
+	list-style: none;
+	cursor: pointer;
+	padding-left: 20px;
+	color: aliceblue;
+}
+
+li {
+	padding: 10px 0 10px;
+}
